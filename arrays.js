@@ -32,6 +32,10 @@ Array.slice(1)
 return Array
 }
 
+function destructivelyRemoveElementFromEndOfArray(Array) {
+  return Array.pop()
+}
+
 
 
 
