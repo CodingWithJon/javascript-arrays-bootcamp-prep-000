@@ -9,3 +9,6 @@ Array.unshift(element)
   return Array
 }
 
+function addElementToEndOfArray() {
+  
+}
